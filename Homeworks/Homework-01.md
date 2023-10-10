@@ -15,7 +15,7 @@ What is the Von Neuman Bottleneck? How does the Harvard Architecture address it?
 
 ## Part 1: Access speed of registers
 
-\[f = \frac{Hz}{s} = 5.1 * 10^{9}\]
-\[s = \frac{Hz}{f} =\frac{1}{5.1 * 10^9} \approx 196 * 10^{-12} \approx 196 \text{picosec} \]
+f = Hz / s = 5.1 * 10^9 <br>
+s = Hz / f = 1 / 5.1 * 10^9 ≈  196 * 10^{-12} ≈ 196 picosec
 
 ## Part II: Access speed of RAM
